@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="200px" viewBox="0 0 300 200" style="enable-background:new 0 0 300 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#D9DADE;}
+	.st3{fill:#B2B2B2;}
+	.st4{fill:none;stroke:#DDDDDD;stroke-miterlimit:10;}
+	.st5{opacity:0.3;fill:#9B99F2;enable-background:new    ;}
+	.st6{opacity:0.3;fill:#72EDFC;enable-background:new    ;}
+	.st7{opacity:0.3;fill:#FCCC7A;enable-background:new    ;}
+	.st8{opacity:0.3;fill:#FF896B;enable-background:new    ;}
+	.st9{opacity:0.3;fill:#ADADAD;enable-background:new    ;}
+</style>
+<title>cs-window</title>
+<path class="st0" d="M91.2,55.5h148.6c3.2,0,5.7,2.6,5.7,5.7v99.6c0,3.2-2.6,5.7-5.7,5.7H91.2c-3.2,0-5.7-2.6-5.7-5.7V61.2
+	C85.5,58.1,88.1,55.5,91.2,55.5z"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M91.2,55.5h148.6c3.2,0,5.7,2.6,5.7,5.7v99.6c0,3.2-2.6,5.7-5.7,5.7H91.2c-3.2,0-5.7-2.6-5.7-5.7V61.2
+			C85.5,58.1,88.1,55.5,91.2,55.5z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st1">
+		<rect x="44" y="50" class="st2" width="212" height="21"/>
+		<circle class="st3" cx="235.8" cy="63.2" r="2.8"/>
+		<circle class="st3" cx="227" cy="63.2" r="2.8"/>
+		<circle class="st3" cx="218.5" cy="63.2" r="2.8"/>
+	</g>
+</g>
+<path class="st4" d="M91.2,55.5h148.6c3.2,0,5.7,2.6,5.7,5.7v99.6c0,3.2-2.6,5.7-5.7,5.7H91.2c-3.2,0-5.7-2.6-5.7-5.7V61.2
+	C85.5,58.1,88.1,55.5,91.2,55.5z"/>
+<rect x="108" y="114" class="st5" width="33" height="23"/>
+<rect x="158" y="142.8" class="st6" width="30" height="23"/>
+<rect x="201.5" y="115.3" class="st7" width="32.3" height="50.5"/>
+<rect x="108.3" y="146.5" class="st8" width="26.5" height="3.4"/>
+<rect x="108.3" y="152.3" class="st9" width="43.8" height="3.4"/>
+<rect x="108.3" y="158" class="st9" width="43.8" height="3.4"/>
+<rect x="117.3" y="78.3" class="st6" width="116.5" height="29"/>
+<rect x="147" y="117.1" class="st7" width="26.5" height="3.4"/>
+<rect x="147" y="122.9" class="st9" width="43.8" height="3.4"/>
+<rect x="147" y="128.7" class="st9" width="43.8" height="3.4"/>
+</svg>
